@@ -1,1 +1,1 @@
-# Projeto
+# Projeto básico de pizzaria
